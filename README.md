@@ -1,11 +1,11 @@
-# Assignment Submission Portal Readme
+# Sumit-Hub
 
 ![Demo App](/public/Assignment-Submission-Portal-Mockup.png)
 
 ## For Admin:
 
 ### Overview:
-The Assignment Submission Portal provides functionalities for admins, trainers, and students to manage classes, assignments, and profiles.
+The Submit Hub provides functionalities for admins, trainers, and students to manage classes, assignments, and profiles.
 
 #### Admin Features:
 1. ##### Trainer Management:
