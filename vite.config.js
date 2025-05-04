@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   server: {
     proxy: {
-      "/api": "https://hackathon-backend-tau.vercel.app"
+      "/api": "https://task-portal-backend.vercel.app/"
     }
   },
   plugins: [react()],
