@@ -2,10 +2,11 @@
 
 ![Demo App](/public/Assignment-Submission-Portal-Mockup.png)
 
-## For Admin:
 
 ### Overview:
 The Submit Hub provides functionalities for admins, trainers, and students to manage classes, assignments, and profiles.
+
+## For Admin:
 
 #### Admin Features:
 1. ##### Trainer Management:
