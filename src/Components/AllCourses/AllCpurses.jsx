@@ -21,7 +21,7 @@ import {
   DeleteOutlined,
   PlusOutlined,
 } from '@ant-design/icons';
-import smitlogo from './smitlogo.png';
+import taksportalLogo from '../assets/takportallogo.png';
 
 const { Header, Sider, Content } = Layout;
 
@@ -138,8 +138,8 @@ const AllCourses = () => {
       >
         <div className='flex justify-center p-4' style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
   <img
-    src={smitlogo}
-    alt='SMIT Logo'
+    src={taksportalLogo}
+    alt='Task Portal Logo'
     style={{ width: 90, height: 90, borderRadius: '50%' }}
   />
 </div>

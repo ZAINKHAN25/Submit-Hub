@@ -2,7 +2,7 @@ import { useContext, useState, useEffect, memo } from "react";
 import { useLocation, Link, useNavigate } from "react-router-dom";
 import { UserOutlined, HomeOutlined, TeamOutlined, SettingOutlined, LogoutOutlined } from "@ant-design/icons";
 import { Layout, Menu } from "antd";
-import smitlogo from '../assets/smitlogo.png';
+import taksportalLogo from '../assets/takportallogo.png';
 import LoaderContext from "../Context/LoaderContext";
 import api from "../api/api";
 import { toast, ToastContainer } from "react-toastify";
@@ -171,7 +171,7 @@ const Sidebar = ({ children, title }) => {
             zIndex: 10
           }}
         >
-          <img src={smitlogo} alt="logo" style={{ margin: "auto", width: collapsed ? "50px" : "80px", height: collapsed ? "50px" : "80px" }} />
+          <img src={taksportalLogo} alt="logo" style={{ margin: "auto", width: collapsed ? "50px" : "80px", height: collapsed ? "50px" : "80px" }} />
           <hr />
           <div className="flex w-full px-2 flex-col justify-between h-[80%]">
             <Menu
